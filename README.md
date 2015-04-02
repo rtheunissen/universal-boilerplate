@@ -1,6 +1,6 @@
 # Universal Boilerplate
 
-[![Travis branch](https://img.shields.io/travis/rtheunissen/universal-boilerplate.svg?style=flat-square)]()
+[![Travis branch](https://img.shields.io/travis/joyent/node/v0.6.svg?style=flat-square)]()
 
 A boilerplate / skeleton app that suits the bootstrapping needs of any project.
 
